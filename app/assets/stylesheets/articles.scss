@@ -15,4 +15,14 @@ textarea{
     border: 2-x solid #ccc;
     background-color: #f8f8f8;
     resize: none;
+    
+}input [type=button], input[type=submit]{
+ 
+    background-color: #4CAF50;
+    float: right;
+    border: none;
+    color: white;
+    padding: 16px 20px;
+    text-decoration: none;
+    cursor: pointer;
 }
